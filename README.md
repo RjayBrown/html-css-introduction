@@ -32,7 +32,7 @@
 
 ## Getting Started
 
-You can [download the project](https://github.com/RjayBrown/html-css-intro/archive/refs/heads/main.zip) or clone and run the project locally to get hands-on practice with the core concepts below. Try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
+You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or clone and run the project locally to get hands-on practice with the core concepts below. Try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
 
 Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the practice folder. If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
 
@@ -48,7 +48,7 @@ Once you complete the challenges you'll have the knowledge to build your own bas
 1 - Open the terminal in your code editor and type:
 
 ```sh
-git clone https://github.com/RjayBrown/project-name
+git clone https://github.com/RjayBrown/html-css-introduction
 ```
 
 - You can also click the green code button and copy the url (make sure HTTPS is selected)
@@ -56,7 +56,7 @@ git clone https://github.com/RjayBrown/project-name
 2 - Navigate to the project folder
 
 ```sh
-cd project-name
+cd html-css-introduction
 ```
 
 You are now able to access and run the project locally.
@@ -71,7 +71,7 @@ If you found some value here or just want to support, feel free to give the proj
 
 ### More #100Devs Inspired Practice Projects
 
-- [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-intro)
+- [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-introduction)
 - [HTML/CSS - Responsive Design](https://github.com/RjayBrown/html-css-responsive-design)
 - [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-3)
 - [JavaScript (Client-side) - The DOM(Introduction): User Interaction & Changing the DOM](https://github.com/RjayBrown/javascript-dom-intro)
