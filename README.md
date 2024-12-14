@@ -73,7 +73,7 @@ If you found some value here or just want to support, feel free to give the proj
 
 - [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-introduction)
 - [HTML/CSS - Containers & Responsive Design](https://github.com/RjayBrown/html-css-responsive-design)
-- [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-3)
+- [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-forms-and-styles)
 - [JavaScript (Client-side) - The DOM(Introduction): User Interaction & Changing the DOM](https://github.com/RjayBrown/javascript-dom-intro)
 - [JavaScript (Client-side) - Fetch API(Introduction): Promise Chains & Handling JSON](https://github.com/RjayBrown/javascript-fetch-promise-chains)
 - [JavaScript (Client-side) - Fetch API(Advanced): Async/Await & Handling JSON](https://github.com/RjayBrown/war-the-card-game)
