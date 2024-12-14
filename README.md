@@ -34,14 +34,14 @@
 
 You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or clone and run the project locally to get hands-on practice with the core concepts below. Try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
 
-Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the practice folder. If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
-
 ### Core Concepts
 
 - Semantic Elements
 - Text Alignment
 - Box Model - Padding, Borders, and Margin
 - Font Styles - Using Google Fonts
+
+Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the practice folder. If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
 
 ## Clone & Run Locally
 
