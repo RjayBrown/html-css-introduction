@@ -47,19 +47,19 @@ Once you complete the challenges you'll have the knowledge to build your own bas
 
 ## Clone & Run Locally
 
-1 - Open the terminal in your code editor and type:
+1. Open the terminal in your code editor and type (or copy/paste):
 
-```sh
-git clone https://github.com/RjayBrown/html-css-introduction
-```
+   ```
+   git clone https://github.com/RjayBrown/html-css-introduction
+   ```
 
-- You can also click the green code button and copy the url (make sure HTTPS is selected)
+   - _**NOTE:** You can also click the green code button and copy the url (make sure HTTPS is selected)_
 
-2 - Navigate to the project folder
+2. Navigate to the project folder
 
-```sh
-cd html-css-introduction
-```
+   ```
+   cd html-css-introduction
+   ```
 
 You are now able to access and run the project locally.
 
