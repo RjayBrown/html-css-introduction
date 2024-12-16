@@ -41,6 +41,8 @@ You can [download the project](https://github.com/RjayBrown/html-css-introductio
 - Box Model - Padding, Borders, and Margin
 - Font Styles - Using Google Fonts
 
+## Build a Mini Project
+
 Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the practice folder. If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
 
 ## Clone & Run Locally
