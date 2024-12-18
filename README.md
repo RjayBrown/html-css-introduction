@@ -19,9 +19,10 @@
 
 <div align="center">
   <img width="800" alt="project-screenshot" src="screenshots/project-screenshot.png">
-  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-2.png">
-  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-3.png">
   <h2 align="center"></h2>
+  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-2.png">
+  <h2 align="center"></h2>
+  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-3.png">
 </div>
 
 ## Built With
