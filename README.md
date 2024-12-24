@@ -33,7 +33,7 @@
 
 ## Getting Started
 
-You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or clone and run the project locally to get hands-on practice with the core concepts below. Try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
+You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or clone and [run the project locally](https://github.com/RjayBrown/html-css-introduction#clone--run-locally) to get hands-on practice with the core concepts below.
 
 ### Core Concepts
 
@@ -42,9 +42,15 @@ You can [download the project](https://github.com/RjayBrown/html-css-introductio
 - Box Model - Padding, Borders, and Margin
 - Font Styles - Using Google Fonts
 
+### Review & Practice
+
+Start in the practice folder, and after reviewing the code and comments in each file, try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
+
 ## Build a Mini Project
 
-Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the project folder. If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
+Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the project folder.
+
+If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
 
 ## Clone & Run Locally
 
@@ -72,15 +78,14 @@ A big thanks to [@100devs](https://github.com/100devs) for the continued support
 
 If you found some value here or just want to support, feel free to give the project a ⭐️!
 
-### More #100Devs Inspired Practice Projects
+### Additional Resources & Mini Projects
 
 - [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-introduction)
 - [HTML/CSS - Containers & Responsive Design](https://github.com/RjayBrown/html-css-responsive-design)
 - [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-forms-and-styles)
 - [JavaScript (Client-side) - The DOM(Introduction): User Interaction & Changing the DOM](https://github.com/RjayBrown/javascript-dom-intro)
-- [JavaScript (Client-side) - Fetch API(Introduction): Promise Chains & Handling JSON](https://github.com/RjayBrown/javascript-fetch-promise-chains)
+- [JavaScript (Client-side) - Fetch API(Introduction): Promise Chains & Handling JSON](https://github.com/RjayBrown/javascript-fetch-json-data)
 - [JavaScript (Client-side) - Fetch API(Advanced): Async/Await & Handling JSON](https://github.com/RjayBrown/war-the-card-game)
-- [JavaScript (Client-side) - Fetch API(Advanced): Async/Await & Handling JSON, 2nd Project](https://github.com/RjayBrown/olympics-info)
 - [JavaScript (Server-side) - URL Endpoints with NodeJS(Introduction)](https://github.com/RjayBrown/olympics-info)
 - [JavaScript (Full-Stack) - MVC Architecture(Introduction)](https://github.com/RjayBrown/hello-world)
 - [JavaScript (Full-Stack) - MVC Architecture(Advanced): Authentication](https://github.com/RjayBrown/story-book) - Coming Soon!
