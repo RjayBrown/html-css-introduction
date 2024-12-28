@@ -18,11 +18,11 @@
 <h2 align="center">Screenshots</h2>
 
 <div align="center">
-  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot.png">
+  <img width="750" alt="project-screenshot" src="screenshots/project-screenshot.png">
   <h2 align="center"></h2>
-  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-2.png">
+  <img width="750" alt="project-screenshot" src="screenshots/project-screenshot-2.png">
   <h2 align="center"></h2>
-  <img width="800" alt="project-screenshot" src="screenshots/project-screenshot-3.png">
+  <img width="750" alt="project-screenshot" src="screenshots/project-screenshot-3.png">
 </div>
 
 ## Built With
@@ -33,7 +33,7 @@
 
 ## Getting Started
 
-You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or clone and [run the project locally](https://github.com/RjayBrown/html-css-introduction#clone--run-locally) to get hands-on practice with the core concepts below.
+You can [download the project](https://github.com/RjayBrown/html-css-introduction/archive/refs/heads/main.zip) or fork and [run the project locally](https://github.com/RjayBrown/html-css-introduction#fork--run-locally) to get hands-on practice with the core concepts below. Start with reviewing the code and comments for each file in the practice folder.
 
 ### Core Concepts
 
@@ -42,53 +42,69 @@ You can [download the project](https://github.com/RjayBrown/html-css-introductio
 - Box Model - Padding, Borders, and Margin
 - Font Styles - Using Google Fonts
 
-### Review & Practice
+### Hands-On Practice
 
-Start in the practice folder, and after reviewing the code and comments in each file, try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles). For an extra challenge, try adding new elements and experimenting with different styles and placements. Have fun and be creative!
+**1.** Try [switching fonts](https://fonts.google.com/) and changing how the elements are positioned or styled (you can match the examples above or apply your own styles).
 
-## Build a Mini Project
+**2.** For an extra challenge, try adding new elements and experimenting with different styles and text alignments. Have fun and be creative!
+
+## Build a Mini-Project
 
 Once you complete the challenges you'll have the knowledge to build your own basic portfolio page from scratch! The starter files are in the project folder.
 
-If you run into trouble, you can reach out in the #100Devs [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channel on Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
+If you run into trouble, you can reach out in the [[🕒 catchup-crew]](https://discord.com/channels/735923219315425401/932892279637700658) or [[❓code-help]](https://discord.com/channels/735923219315425401/735925942559440997) channels in the #100Devs Discord. It's an amazing community space filled with supportive developers happy to answer any questions you may have!
 
-## Clone & Run Locally
+## Fork & Run Locally
 
-1. Open the terminal in your code editor and type (or copy/paste):
+**1.** To get started, open this [link](https://github.com/RjayBrown/html-css-introduction/fork) in a new tab to fork or make a personal copy of this repository
 
-   ```
-   git clone https://github.com/RjayBrown/html-css-introduction
-   ```
+- _**NOTE:** You may find it easier to keep the same name, but you can change it if you like!_
 
-   - _**NOTE:** You can also click the green code button and copy the url (make sure HTTPS is selected)_
+**2.** Click the code button to open the dropdown and copy the URL **(make sure HTTPS is selected)**.
 
-2. Navigate to the project folder
+**3.** Open the terminal in your editor, type 'git clone' and paste the URL **(the command should follow one of the formats below)**.
 
-   ```
-   cd html-css-introduction
-   ```
+```
+ git clone https://github.com/YOUR-GITHUB-USERNAME/html-css-introduction
+```
 
-You are now able to access and run the project locally.
+```
+ git clone https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME
+```
+
+**4.** Run the command **(Press Enter)**
+
+**5.** Navigate to the project folder
+
+```
+cd html-css-introduction
+```
+
+```
+cd YOUR-REPOSITORY-NAME
+```
+
+**Done!** You are now able to run the project locally.
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgments
 
-A big thanks to [@100devs](https://github.com/100devs) for the continued support, and [Leon Noel](https://github.com/leonnoel) for the project inspiration.
+A big thanks to [#100Devs](https://discord.com/channels/735923219315425401/735925942559440997) for the community support, and [Leon Noel](https://github.com/leonnoel) for the project inspiration.
 
-If you found some value here or just want to support, feel free to give the project a ⭐️!
+If you found some value here and would like to support, feel free to give the project a ⭐️!
 
-### Additional Resources & Mini Projects
+### Additional Resources & Mini-Projects
 
 - [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-introduction)
 - [HTML/CSS - Containers & Responsive Design](https://github.com/RjayBrown/html-css-responsive-design)
-- [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-forms-and-styles)
+- [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-forms-and-links)
 - [JavaScript (Client-side) - The DOM(Introduction): User Interaction & Changing the DOM](https://github.com/RjayBrown/javascript-dom-intro)
 - [JavaScript (Client-side) - Fetch API(Introduction): Promise Chains & Handling JSON](https://github.com/RjayBrown/javascript-fetch-json-data)
 - [JavaScript (Client-side) - Fetch API(Advanced): Async/Await & Handling JSON](https://github.com/RjayBrown/war-the-card-game)
-- [JavaScript (Server-side) - URL Endpoints with NodeJS(Introduction)](https://github.com/RjayBrown/olympics-info)
+- [JavaScript (Server-side) - URL Endpoints with NodeJS(Introduction)](https://github.com/RjayBrown/olympics-search)
 - [JavaScript (Full-Stack) - MVC Architecture(Introduction)](https://github.com/RjayBrown/hello-world)
-- [JavaScript (Full-Stack) - MVC Architecture(Advanced): Authentication](https://github.com/RjayBrown/story-book) - Coming Soon!
+- [JavaScript (Full-Stack) - MVC Architecture(Advanced): Authentication](https://github.com/RjayBrown/freelancr) - Coming Soon!
 - [JavaScript (Full-Stack) - MVC Architecture(Advanced): PostgreSQL](https://github.com/RjayBrown/b-u-b) - Coming Soon!
 - [JavaScript (Full-Stack) - MVC Architecture(Advanced): ReactJS](https://github.com/RjayBrown/) - Coming Soon!
 
