@@ -5,8 +5,8 @@
   <a href="">
     <img src="screenshots/project-logo.png" alt="project-name" height="64">
   </a>
-<h1 align="center">HTML Elements & Basic CSS Styles/Selectors</h1>
-<h4>Learn about how websites are structured and styled with HTML & CSS</h4>
+<h1 align="center">HTML Elements <br>&<br> Basic CSS Styles/Selectors</h1>
+<h4>Get hands-on practice using HTML tags with CSS styles to build page sections, display text, and create a basic website</h4>
 </div>
 <div align="center">
   <h3>
