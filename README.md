@@ -5,8 +5,8 @@
   <a href="">
     <img src="screenshots/project-logo.png" alt="project-name" height="64">
   </a>
-<h1 align="center">HTML Elements <br>&<br> Basic CSS Styles/Selectors</h1>
-<h4>Get hands-on practice using HTML tags with CSS styles to build page sections, display text, and create a basic website</h4>
+<h1 align="center">HTML Elements & CSS Fundamentals</h1>
+<h3>Get hands-on practice using HTML tags with CSS styles to build page sections, display text, and create a basic web page</h3>
 </div>
 <div align="center">
   <h3>
@@ -90,23 +90,17 @@ cd YOUR-REPOSITORY-NAME
 
 ## Acknowledgments
 
-A big thanks to [#100Devs](https://discord.com/channels/735923219315425401/735925942559440997) for the community support, and [Leon Noel](https://github.com/leonnoel) for the project inspiration.
+A big thanks to [Leon Noel](https://github.com/leonnoel) and the [#100Devs](https://discord.com/channels/735923219315425401/735925942559440997) community for the project inspiration.
 
 If you found some value here and would like to support, feel free to give the project a ⭐️!
 
-### Additional Resources & Mini-Projects
+### Practice Web Development Basics: More Mini-Projects
 
-- [HTML/CSS - Semantic Elements & Basic CSS Styles](https://github.com/RjayBrown/html-css-introduction)
-- [HTML/CSS - Containers & Responsive Design](https://github.com/RjayBrown/html-css-responsive-design)
-- [HTML/CSS - Forms & More CSS Styles](https://github.com/RjayBrown/html-css-forms-and-links)
-- [JavaScript (Client-side) - The DOM(Introduction): User Interaction & Changing the DOM](https://github.com/RjayBrown/javascript-dom-intro)
-- [JavaScript (Client-side) - Fetch API(Introduction): Promise Chains & Handling JSON](https://github.com/RjayBrown/javascript-fetch-json-data)
-- [JavaScript (Client-side) - Fetch API(Advanced): Async/Await & Handling JSON](https://github.com/RjayBrown/war-the-card-game)
-- [JavaScript (Server-side) - URL Endpoints with NodeJS(Introduction)](https://github.com/RjayBrown/olympics-search)
-- [JavaScript (Full-Stack) - MVC Architecture(Introduction)](https://github.com/RjayBrown/hello-world)
-- [JavaScript (Full-Stack) - MVC Architecture(Advanced): Authentication](https://github.com/RjayBrown/freelancr) - Coming Soon!
-- [JavaScript (Full-Stack) - MVC Architecture(Advanced): PostgreSQL](https://github.com/RjayBrown/b-u-b) - Coming Soon!
-- [JavaScript (Full-Stack) - MVC Architecture(Advanced): ReactJS](https://github.com/RjayBrown/) - Coming Soon!
+- **HTML + CSS - HTML Elements & CSS Fundamentals**
+- [**HTML + CSS - Containers & Responsive Design**](https://github.com/RjayBrown/html-css-responsive-design)
+- [**HTML + CSS - Forms, Links & More CSS Styles**](https://github.com/RjayBrown/html-css-forms-and-links)
+- [**JavaScript - The DOM & User Interactions**](https://github.com/RjayBrown/javascript-dom-intro)
+- [**JavaScript - Promises & Using the Fetch API**](https://github.com/RjayBrown/javascript-fetch-api-intro)
 
 <!-- LICENSE -->
 
